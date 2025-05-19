@@ -7,7 +7,7 @@ This project demonstrates a **smart irrigation system** built using the **ESP32 
 ## 📷 System Overview
 
  ![Image Alt](https://github.com/tajulislamsaidul/smart_irrigation_system_with_ESP32/blob/282b65ee19618addebe99b4ae2a28cbb4c49c6e9/photo_6149782698856661942_y.jpg)
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/tajulislamsaidul/smart_irrigation_system_with_ESP32/blob/bc80db56dfa32b8e2328cbbd41e0d5e838c7a7eb/photo_6149782698856661943_y.jpg)
 ---
 
 ## 📦 Components Used
